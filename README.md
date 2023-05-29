@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Loves coding 👨‍💻, eating 🍕 and travelling 🚀
 
-Check me out:
+Check me out: [My Resume](https://qhthai.club/assets/pdf/QuangHungThai_Resume.pdf)
 
 [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/quang-hung-thai-5b617b1b3/)
